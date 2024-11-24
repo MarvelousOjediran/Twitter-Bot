@@ -4,10 +4,10 @@ import tweepy
 from PIL import Image
 
 # Twitter API credentials
-API_KEY = 'BMykeEM3qYVisrQQ1EvVlQqoU'
-API_SECRET_KEY = 'prlIUsB2gu3n6p3CjpB1z7fm8AJDojFdZiny7eAPuQZM3O14oL'
-ACCESS_TOKEN = '1808894730878791681-A4kb4NS6KBd9Ru4I8Qj3g8Xa0OsqbA'
-ACCESS_TOKEN_SECRET = 'NIxbdCMpbXZKf69tvl5UIg8ufToMZM31uAe4HP8U2V2xE'
+API_KEY = (not leaking)
+API_SECRET_KEY = (not leaking)
+ACCESS_TOKEN = (not leaking)
+ACCESS_TOKEN_SECRET = (not leaking)
 
 # Authenticate to Twitter
 auth = tweepy.OAuthHandler(API_KEY, API_SECRET_KEY)
