@@ -1,0 +1,4 @@
+This will basically check when the bot has been @'d then like the tweet and Post the "absolute cinema" meme as a reply.
+If you would like to, you can copy this and change the image to anything you want. 
+Also make sure you fill in your api keys in an .env environment to not get leaked when you want to try this. 
+I currently don't have a demo for this as you need a developer account to use advanced bots but the code will work.  
